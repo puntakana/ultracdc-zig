@@ -1,0 +1,14 @@
+[package]
+name = "ultracdc-rs"
+version = "0.1.0"
+authors = ["Yohann Duhamel"]
+edition = "2021"
+description = "UltraCDC (content defined chunking) implementation in pure Rust"
+repository = "https://github.com/puntakana/ultracdc-rs"
+readme = "README.md"
+keywords = ["cdc", "chunking"]
+license = "MIT"
+exclude = ["test/*"]
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
