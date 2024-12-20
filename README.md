@@ -1,2 +1,2 @@
-# ultracdc-rs
-UltraCDC (content defined chunking) implementation in pure Rust
+# ultracdc-zig
+UltraCDC (content defined chunking) implementation in pure Zig
